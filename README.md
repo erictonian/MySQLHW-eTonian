@@ -1,2 +1,2 @@
 # MySQLHW-eTonian
-UTA Data Bootcamp MySQL MW
+UTA Data Bootcamp MySQL HW
